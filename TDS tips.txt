@@ -1,0 +1,7 @@
+TDS / EC Meter:
+
+https://randomnerdtutorials.com/arduino-tds-water-quality-sensor/
+
+https://www.usinainfo.com.br/blog/projeto-medidor-de-tds-arduino-para-condutividade-da-agua/
+
+DFRobot Gravity TDS Sensor Library
